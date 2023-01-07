@@ -3,5 +3,5 @@
 things = []
 with open('PythonListMaker/things.txt') as open_file: # Rename parent folder to PythonListMaker for this to work
     for line in open_file:
-        things.append(line.strip())
+        things.append(line.strip()) # will not work with lines with spaces though
 print(things)
