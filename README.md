@@ -1,2 +1,2 @@
 # PythonListMaker
-Creates a list for you from a text file
+Creates a list of strings from the lines in a text file
